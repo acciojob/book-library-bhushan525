@@ -17,3 +17,7 @@ justify-content: center;
 .author{
 	color:#777777;
 }
+.book-library {
+	text-align:center;
+	box-shadow:2px 4px rgb(233, 233, 233);
+}
